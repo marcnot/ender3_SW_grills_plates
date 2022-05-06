@@ -1,4 +1,4 @@
-# ender3 SW grills & plates
+# Ender3 SW grills & plates
 
 ## Info
 This is part of an Ender3 (No V2/Pro) to Voron Switchwire Conversion. This git only contains files that I have adapted for an Ender3 to Switchwire conversion. Origin was the conversation from https://github.com/boubounokefalos/Ender_SW.
